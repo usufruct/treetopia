@@ -22,4 +22,10 @@ namespace :db do
     task :rollback do
         puts 'db:rollback'
     end
+
+    desc 'Current migration version'
+    task :version do
+        puts 'db:version'
+        puts "Current db version: #{ActiveRecord::Migrator.current_version}"
+    end
 end
