@@ -8,3 +8,6 @@ gem "rspec", "~> 3.7"
 
 # Added at 2017-12-16 13:40:11 -0600 by mandible:
 gem "rake", "~> 12.3"
+
+# Added at 2017-12-16 14:30:07 -0600 by mandible:
+gem "pg", "~> 0.21.0"
