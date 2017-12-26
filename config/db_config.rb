@@ -1,5 +1,4 @@
-require 'active_record'
-
+require 'active_record' 
 ActiveRecord::Base.establish_connection(
     adapter: 'postgresql',
     username: ENV['DB_USER'],

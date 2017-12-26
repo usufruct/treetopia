@@ -1,3 +1,5 @@
+.env_local
+
 *.gem
 *.rbc
 /.config
