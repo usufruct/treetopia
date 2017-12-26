@@ -11,3 +11,6 @@ gem "rake", "~> 12.3"
 
 # Added at 2017-12-16 14:30:07 -0600 by mandible:
 gem "pg", "~> 0.21.0"
+
+# Added at 2017-12-26 13:25:58 -0600 by mandible:
+gem "foreman", "~> 0.84.0"
