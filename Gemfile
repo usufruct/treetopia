@@ -14,3 +14,6 @@ gem "pg", "~> 0.21.0"
 
 # Added at 2017-12-26 13:25:58 -0600 by mandible:
 gem "foreman", "~> 0.84.0"
+
+# Added at 2017-12-30 14:15:21 -0600 by mandible:
+gem "pry", "~> 0.11.3"
